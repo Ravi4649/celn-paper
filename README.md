@@ -8,7 +8,7 @@ We propose CELN (C. Elegans Learning Network), an architecture that performs fir
 ## Status
 - **Pre-print Date:** June 23, 2026
 - **Code:** https://github.com/Ravi4649/celn
-- **Paper Submission:** Submitted to arXiv (pending endorsement).
+- **Paper Availability:** Pre-print available on Zenodo: 10.5281/zenodo.20836283
 
 ## Citation
 If you find this work useful in your research, please consider citing:
